@@ -1,4 +1,4 @@
-ROM ubuntu
+FROM ubuntu
 
 COPY welcome.txt welcome.txt
 
